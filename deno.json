@@ -1,6 +1,6 @@
 {
   "name": "@vseplet/pflow",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "license": "MIT",
   "tasks": {
     "test": "deno test --allow-all",
